@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityMain!</string>
+    <string name="app_name">MessageBox</string>
+    
+    <!-- Icons String -->
+    <string name="ic_image"></string>
+    <string name="ic_camera"></string>
+    <string name="ic_headphones"></string>
+    <string name="ic_connection"></string>
+    <string name="ic_mic"></string>
+    <string name="ic_folder"></string>
+    <string name="ic_locaion"></string>
+    <string name="ic_clock"></string>
+    <string name="ic_cloud_check"></string>
+    <string name="ic_warning"></string>
+    <string name="ic_plus"></string>
+    <string name="ic_mines"></string>
+    <string name="ic_cross"></string>
+    <string name="ic_check"></string>
+
+</resources>
