@@ -9,6 +9,8 @@
 ```
 ##### 3.then copy ```icomoon.ttf``` in assets folder.
 
+-----
+
 ### Usage
 ``` java
    MessageBox.makeMessage(getApplicationContext(), "Hello word", MessageBox.LENGTH_SHORT)
@@ -22,6 +24,14 @@
                 .show();
 ```
 
+----
 
+### Tools 
+[icomoon] (https://icomoon.io)
+
+----
+
+### Developer
+#### [Mohammad Hossein Kashizadeh] (emailto:mh.kashizadeh@gmail.com)
 
   
