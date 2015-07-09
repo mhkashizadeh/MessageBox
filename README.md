@@ -32,6 +32,6 @@
 ----
 
 ### Developer
-#### [Mohammad Hossein Kashizadeh] (emailto:mh.kashizadeh@gmail.com)
+#### [Mohammad Hossein Kashizadeh](mailto:mh.kashizadeh@gmail.com)
 
   
