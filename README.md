@@ -9,6 +9,7 @@
 ```
 ##### 3.Then copy ```icomoon.ttf``` in assets folder.
 
+----
 
 ### Setup IconFont
 ##### 1.New project ```IconFont``` in [icomoon] (https://icomoon.io).
