@@ -9,20 +9,6 @@
 ```
 ##### 3.Then copy ```icomoon.ttf``` in assets folder.
 
------
-
-### Usage
-``` java
-   MessageBox.makeMessage(getApplicationContext(), "Hello word", MessageBox.LENGTH_SHORT)
-                .show();
-```
-### Option
-``` java
-   MessageBox.makeMessage(getApplicationContext(), "Hello word", MessageBox.LENGTH_SHORT)
-                .setIcon(R.string.ic_clock)
-                .setGravity(Gravity.Center)
-                .show();
-```
 
 ### Setup IconFont
 ##### 1.New project ```IconFont``` in [icomoon] (https://icomoon.io).
@@ -36,6 +22,22 @@
     <string name="ic_camera"></string>
     <string name="ic_headphones"></string>
     <string name="ic_connection"></string>
+```
+
+
+-----
+
+### Usage
+``` java
+   MessageBox.makeMessage(getApplicationContext(), "Hello word", MessageBox.LENGTH_SHORT)
+                .show();
+```
+### Option
+``` java
+   MessageBox.makeMessage(getApplicationContext(), "Hello word", MessageBox.LENGTH_SHORT)
+                .setIcon(R.string.ic_clock)
+                .setGravity(Gravity.Center)
+                .show();
 ```
 
 ----
